@@ -1,0 +1,15 @@
+attrs==20.3.0
+decorator==4.4.2
+iniconfig==1.1.1
+jsonpatch==1.28
+jsonpath-ng==1.5.2
+jsonpointer==2.0
+packaging==20.9
+pluggy==0.13.1
+ply==3.11
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.2
+PyYAML==5.4.1
+six==1.15.0
+toml==0.10.2
